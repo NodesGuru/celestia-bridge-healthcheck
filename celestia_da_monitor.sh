@@ -8,7 +8,7 @@
 # # CELESTIA_BRIDGE_NODE_STORE=/celestia/bridge/.celestia-bridge-mocha-4/ # testnet with ZFS
 # CELESTIA_BRIDGE_NODE_STORE=$HOME/.celestia-bridge-mocha-4/ # testnet default
 # CELESTIA_BRIDGE_NODE_URL="http://localhost:26658"
-# CELESTIA_BRIDGE_METRICS_COLLECTOR_ADDRESS="otel.celestia-mocha.com" # testnet
+# CELESTIA_BRIDGE_METRICS_COLLECTOR_ADDRESS="otel.mocha.celestia.observer" # testnet
 
 #### MAINNET ####
 HC_API_KEY="" # healthchecks.io api key
